@@ -5,4 +5,4 @@ git is also a little bit hard to learn.
 
 git has something beautiful to discover.
 
-connet to the github
+connect to the github
