@@ -4,3 +4,5 @@ git is free of charge.
 git is also a little bit hard to learn.
 
 git has something beautiful to discover.
+
+connet to the github
